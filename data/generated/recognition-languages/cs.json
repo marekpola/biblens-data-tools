@@ -1,0 +1,8 @@
+{
+  "id": "cs",
+  "displayName": "Czech",
+  "lang": "cs",
+  "formatVersion": 1,
+  "source": "openbibleinfo/Bible-Passage-Reference-Parser-Languages/lang/ces.js",
+  "books": {}
+}

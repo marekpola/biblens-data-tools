@@ -4,5 +4,1204 @@
   "lang": "cs",
   "formatVersion": 1,
   "source": "openbibleinfo/Bible-Passage-Reference-Parser-Languages/lang/ces.js",
-  "books": {}
+  "books": {
+    "GEN": {
+      "aliases": [
+        "Prvni. kniha Mojzisova",
+        "Prvni. Mojzisova",
+        "Prvni kniha Mojzisova",
+        "Prvni Mojzisova",
+        "1. kniha Mojzisova",
+        "1. Mojzisova",
+        "1 kniha Mojzisova",
+        "1 Mojzisova",
+        "Gen",
+        "Genesis",
+        "Gn"
+      ]
+    },
+    "EXO": {
+      "aliases": [
+        "Druha. kniha Mojzisova",
+        "Druha. Mojzisova",
+        "Druha kniha Mojzisova",
+        "Druha Mojzisova",
+        "II. kniha Mojzisova",
+        "II. Mojzisova",
+        "II kniha Mojzisova",
+        "II Mojzisova",
+        "2. kniha Mojzisova",
+        "2. Mojzisova",
+        "2 kniha Mojzisova",
+        "2 Mojzisova",
+        "Ex",
+        "Exod",
+        "Exodus"
+      ]
+    },
+    "LEV": {
+      "aliases": [
+        "Treti. kniha Mojzisova",
+        "Treti. Mojzisova",
+        "Treti kniha Mojzisova",
+        "Treti Mojzisova",
+        "III. kniha Mojzisova",
+        "III. Mojzisova",
+        "III kniha Mojzisova",
+        "III Mojzisova",
+        "3. kniha Mojzisova",
+        "3. Mojzisova",
+        "3 kniha Mojzisova",
+        "3 Mojzisova",
+        "Lev",
+        "Leviticusi",
+        "Leviticus",
+        "Levitikus",
+        "Lv"
+      ]
+    },
+    "NUM": {
+      "aliases": [
+        "Ctvrta. kniha Mojzisova",
+        "Ctvrta. Mojzisova",
+        "Ctvrta kniha Mojzisova",
+        "Ctvrta Mojzisova",
+        "IV. kniha Mojzisova",
+        "IV. Mojzisova",
+        "IV kniha Mojzisova",
+        "IV Mojzisova",
+        "4. kniha Mojzisova",
+        "4. Mojzisova",
+        "4 kniha Mojzisova",
+        "4 Mojzisova",
+        "Nu",
+        "Num",
+        "Numeri",
+        "Nm"
+      ]
+    },
+    "DEU": {
+      "aliases": [
+        "Pata. kniha Mojzisova",
+        "Pata. Mojzisova",
+        "Pata kniha Mojzisova",
+        "Pata Mojzisova",
+        "5. kniha Mojzisova",
+        "5. Mojzisova",
+        "5 kniha Mojzisova",
+        "5 Mojzisova",
+        "Deut",
+        "Deuteronomium",
+        "Dt"
+      ]
+    },
+    "JOS": {
+      "aliases": [
+        "Joz",
+        "Jozue",
+        "Josh",
+        "Jz"
+      ]
+    },
+    "JDG": {
+      "aliases": [
+        "Soudcu",
+        "Sdc",
+        "Sd",
+        "Judg"
+      ]
+    },
+    "RUT": {
+      "aliases": [
+        "Ruth",
+        "Rut",
+        "Rt"
+      ]
+    },
+    "1SA": {
+      "aliases": [
+        "Prvni. kniha Samuelova",
+        "Prvni. Samuelova",
+        "Prvni. S",
+        "Prvni. Sam",
+        "Prvni. Samuel",
+        "Prvni kniha Samuelova",
+        "Prvni Samuelova",
+        "Prvni S",
+        "Prvni Sam",
+        "Prvni Samuel",
+        "1. kniha Samuelova",
+        "1. Samuelova",
+        "1. S",
+        "1. Sam",
+        "1. Samuel",
+        "1 kniha Samuelova",
+        "1 Samuelova",
+        "1 S",
+        "1 Sam",
+        "1 Samuel",
+        "1Sam"
+      ]
+    },
+    "2SA": {
+      "aliases": [
+        "Druha. kniha Samuelova",
+        "Druha. Samuelova",
+        "Druha. S",
+        "Druha. Sam",
+        "Druha. Samuel",
+        "Druha kniha Samuelova",
+        "Druha Samuelova",
+        "Druha S",
+        "Druha Sam",
+        "Druha Samuel",
+        "II. kniha Samuelova",
+        "II. Samuelova",
+        "II. S",
+        "II. Sam",
+        "II. Samuel",
+        "II kniha Samuelova",
+        "II Samuelova",
+        "II S",
+        "II Sam",
+        "II Samuel",
+        "2. kniha Samuelova",
+        "2. Samuelova",
+        "2. S",
+        "2. Sam",
+        "2. Samuel",
+        "2 kniha Samuelova",
+        "2 Samuelova",
+        "2 S",
+        "2 Sam",
+        "2 Samuel",
+        "2Sam"
+      ]
+    },
+    "1KI": {
+      "aliases": [
+        "Prvni. kniha kralovska",
+        "Prvni. Kralovska",
+        "Prvni. Kr",
+        "Prvni. Kral",
+        "Prvni kniha kralovska",
+        "Prvni Kralovska",
+        "Prvni Kr",
+        "Prvni Kral",
+        "1. kniha kralovska",
+        "1. Kralovska",
+        "1. Kr",
+        "1. Kral",
+        "1 kniha kralovska",
+        "1 Kralovska",
+        "1 Kr",
+        "1 Kral",
+        "1Kgs"
+      ]
+    },
+    "2KI": {
+      "aliases": [
+        "Druha. kniha kralovska",
+        "Druha. Kralovska",
+        "Druha. Kr",
+        "Druha. Kral",
+        "Druha kniha kralovska",
+        "Druha Kralovska",
+        "Druha Kr",
+        "Druha Kral",
+        "II. kniha kralovska",
+        "II. Kralovska",
+        "II. Kr",
+        "II. Kral",
+        "II kniha kralovska",
+        "II Kralovska",
+        "II Kr",
+        "II Kral",
+        "2. kniha kralovska",
+        "2. Kralovska",
+        "2. Kr",
+        "2. Kral",
+        "2 kniha kralovska",
+        "2 Kralovska",
+        "2 Kr",
+        "2 Kral",
+        "2Kgs"
+      ]
+    },
+    "1CH": {
+      "aliases": [
+        "Prvni. Paralipomenon",
+        "Prvni. kniha kronik",
+        "Prvni. Letopisu",
+        "Prvni. Kronik",
+        "Prvni. Kron",
+        "Prvni. Pa",
+        "Prvni Paralipomenon",
+        "Prvni kniha kronik",
+        "Prvni Letopisu",
+        "Prvni Kronik",
+        "Prvni Kron",
+        "Prvni Pa",
+        "1. Paralipomenon",
+        "1. kniha kronik",
+        "1. Letopisu",
+        "1. Kronik",
+        "1. Kron",
+        "1. Pa",
+        "1 Paralipomenon",
+        "1 kniha kronik",
+        "1 Letopisu",
+        "1 Kronik",
+        "1 Kron",
+        "1 Pa",
+        "1Chr"
+      ]
+    },
+    "2CH": {
+      "aliases": [
+        "Druha. Paralipomenon",
+        "Druha. kniha kronik",
+        "Druha. Letopisu",
+        "Druha. Kronik",
+        "Druha. Kron",
+        "Druha. Pa",
+        "Druha Paralipomenon",
+        "Druha kniha kronik",
+        "Druha Letopisu",
+        "Druha Kronik",
+        "Druha Kron",
+        "Druha Pa",
+        "II. Paralipomenon",
+        "II. kniha kronik",
+        "II. Letopisu",
+        "II. Kronik",
+        "II. Kron",
+        "II. Pa",
+        "II Paralipomenon",
+        "II kniha kronik",
+        "II Letopisu",
+        "II Kronik",
+        "II Kron",
+        "II Pa",
+        "2. Paralipomenon",
+        "2. kniha kronik",
+        "2. Letopisu",
+        "2. Kronik",
+        "2. Kron",
+        "2. Pa",
+        "2 Paralipomenon",
+        "2 kniha kronik",
+        "2 Letopisu",
+        "2 Kronik",
+        "2 Kron",
+        "2 Pa",
+        "2Chr"
+      ]
+    },
+    "EZR": {
+      "aliases": [
+        "Ezdras",
+        "Ezra",
+        "Ezd"
+      ]
+    },
+    "NEH": {
+      "aliases": [
+        "Neh",
+        "Nehemias"
+      ]
+    },
+    "EST": {
+      "aliases": [
+        "Est",
+        "Ester",
+        "Esth"
+      ]
+    },
+    "JOB": {
+      "aliases": [
+        "Jb",
+        "Job"
+      ]
+    },
+    "PSA": {
+      "aliases": [
+        "Ps151",
+        "Kniha zalmu",
+        "Zalmy",
+        "Zl",
+        "Z",
+        "Zalm",
+        "Ps"
+      ]
+    },
+    "PRO": {
+      "aliases": [
+        "Pris",
+        "Prislovi",
+        "Prislovi Salomounova",
+        "Pr",
+        "Prov"
+      ]
+    },
+    "ECC": {
+      "aliases": [
+        "Kohelet",
+        "Kaz",
+        "Kazatel",
+        "Eccl"
+      ]
+    },
+    "SNG": {
+      "aliases": [
+        "Pisen Salamounova",
+        "Pisen pisni",
+        "Pis",
+        "Pisen",
+        "Song"
+      ]
+    },
+    "ISA": {
+      "aliases": [
+        "Iz",
+        "Izaias",
+        "Isa",
+        "Is"
+      ]
+    },
+    "JER": {
+      "aliases": [
+        "Jer",
+        "Jeremias",
+        "Jr"
+      ]
+    },
+    "LAM": {
+      "aliases": [
+        "Plac Jeremiasuv",
+        "Kniha narku",
+        "Pl",
+        "Plac",
+        "Lam"
+      ]
+    },
+    "EZK": {
+      "aliases": [
+        "Ez",
+        "Ezechiel",
+        "Ezek"
+      ]
+    },
+    "DAN": {
+      "aliases": [
+        "Da",
+        "Dan",
+        "Daniel"
+      ]
+    },
+    "HOS": {
+      "aliases": [
+        "Oz",
+        "Ozeas",
+        "Hos"
+      ]
+    },
+    "JOL": {
+      "aliases": [
+        "Joel",
+        "Jl"
+      ]
+    },
+    "AMO": {
+      "aliases": [
+        "Am",
+        "Amos"
+      ]
+    },
+    "OBA": {
+      "aliases": [
+        "Abd",
+        "Abdijas",
+        "Abdias",
+        "Obad",
+        "Obadjas",
+        "Obadja"
+      ]
+    },
+    "JON": {
+      "aliases": [
+        "Jon",
+        "Jonah",
+        "Jonas"
+      ]
+    },
+    "MIC": {
+      "aliases": [
+        "Mi",
+        "Mic",
+        "Mich",
+        "Michaas"
+      ]
+    },
+    "NAM": {
+      "aliases": [
+        "Na",
+        "Nah",
+        "Nahum"
+      ]
+    },
+    "HAB": {
+      "aliases": [
+        "Abk",
+        "Abakuk",
+        "Hab"
+      ]
+    },
+    "ZEP": {
+      "aliases": [
+        "Sofonias",
+        "Sf",
+        "Sof",
+        "Zeph"
+      ]
+    },
+    "HAG": {
+      "aliases": [
+        "Ag",
+        "Aggeus",
+        "Ageus",
+        "Hag"
+      ]
+    },
+    "ZEC": {
+      "aliases": [
+        "Zacharias",
+        "Za",
+        "Zach",
+        "Zech"
+      ]
+    },
+    "MAL": {
+      "aliases": [
+        "Mal",
+        "Malachias"
+      ]
+    },
+    "MAT": {
+      "aliases": [
+        "Evangelium podle Matouse",
+        "Matousovo evangelium",
+        "Matt",
+        "Mt",
+        "Mat",
+        "Matous"
+      ]
+    },
+    "MRK": {
+      "aliases": [
+        "Evangelium podle Marka",
+        "Markovo evangelium",
+        "Marek",
+        "Mk",
+        "Mark"
+      ]
+    },
+    "LUK": {
+      "aliases": [
+        "Evangelium podle Lukase",
+        "Lukasovo evangelium",
+        "Luke",
+        "Lk",
+        "L",
+        "Lukas"
+      ]
+    },
+    "JHN": {
+      "aliases": [
+        "J",
+        "Jan",
+        "Evangelium podle Jana",
+        "Janovo evangelium",
+        "John"
+      ]
+    },
+    "ACT": {
+      "aliases": [
+        "Skutky apostolske",
+        "Skutky apostolu",
+        "Sk",
+        "Skutky",
+        "Acts"
+      ]
+    },
+    "ROM": {
+      "aliases": [
+        "List Rimanum",
+        "Rimanum",
+        "Rim",
+        "R",
+        "Rom"
+      ]
+    },
+    "1CO": {
+      "aliases": [
+        "Prvni. list Korintskym",
+        "Prvni. list Korinskym",
+        "Prvni. K",
+        "Prvni. Korintskym",
+        "Prvni list Korintskym",
+        "Prvni list Korinskym",
+        "Prvni K",
+        "Prvni Korintskym",
+        "1. list Korintskym",
+        "1. list Korinskym",
+        "1. K",
+        "1. Korintskym",
+        "1 list Korintskym",
+        "1 list Korinskym",
+        "1 K",
+        "1 Korintskym",
+        "Prvni. Kor",
+        "Prvni Kor",
+        "1. Kor",
+        "1 Kor",
+        "1Cor"
+      ]
+    },
+    "2CO": {
+      "aliases": [
+        "Druha. list Korintskym",
+        "Druha. list Korinskym",
+        "Druha. K",
+        "Druha. Korintskym",
+        "Druha list Korintskym",
+        "Druha list Korinskym",
+        "Druha K",
+        "Druha Korintskym",
+        "II. list Korintskym",
+        "II. list Korinskym",
+        "II. K",
+        "II. Korintskym",
+        "II list Korintskym",
+        "II list Korinskym",
+        "II K",
+        "II Korintskym",
+        "2. list Korintskym",
+        "2. list Korinskym",
+        "2. K",
+        "2. Korintskym",
+        "2 list Korintskym",
+        "2 list Korinskym",
+        "2 K",
+        "2 Korintskym",
+        "2 Kor",
+        "2Cor"
+      ]
+    },
+    "GAL": {
+      "aliases": [
+        "List Galatskym",
+        "Galatskym",
+        "Gal",
+        "Ga"
+      ]
+    },
+    "EPH": {
+      "aliases": [
+        "List Efezanum",
+        "List Efezskym",
+        "Efezskym",
+        "Efeskym",
+        "Eph",
+        "Ef"
+      ]
+    },
+    "PHP": {
+      "aliases": [
+        "List Filipskym",
+        "Filipenskym",
+        "Filipskym",
+        "Phil",
+        "Flp",
+        "Fp"
+      ]
+    },
+    "COL": {
+      "aliases": [
+        "List Kolosanum",
+        "List Koloskym",
+        "Kolossenskym",
+        "Koloskym",
+        "Kolosenskym",
+        "Kolosanum",
+        "Kol",
+        "Ko",
+        "Col"
+      ]
+    },
+    "1TH": {
+      "aliases": [
+        "Prvni. list Tesalonickym",
+        "Prvni. list Solunskym",
+        "Prvni. Tessalonicenskym",
+        "Prvni. Solunskym",
+        "Prvni. Tesalonickym",
+        "Prvni. Sol",
+        "Prvni. Te",
+        "Prvni list Tesalonickym",
+        "Prvni list Solunskym",
+        "Prvni Tessalonicenskym",
+        "Prvni Solunskym",
+        "Prvni Tesalonickym",
+        "Prvni Sol",
+        "Prvni Te",
+        "1. list Tesalonickym",
+        "1. list Solunskym",
+        "1. Tessalonicenskym",
+        "1. Solunskym",
+        "1. Tesalonickym",
+        "1. Sol",
+        "1. Te",
+        "1 list Tesalonickym",
+        "1 list Solunskym",
+        "1 Tessalonicenskym",
+        "1 Solunskym",
+        "1 Tesalonickym",
+        "1 Sol",
+        "1 Te",
+        "1Thess"
+      ]
+    },
+    "2TH": {
+      "aliases": [
+        "Druha. list Tesalonickym",
+        "Druha. list Solunskym",
+        "Druha. Tessalonicenskym",
+        "Druha. Solunskym",
+        "Druha. Tesalonickym",
+        "Druha. Sol",
+        "Druha. Te",
+        "Druha list Tesalonickym",
+        "Druha list Solunskym",
+        "Druha Tessalonicenskym",
+        "Druha Solunskym",
+        "Druha Tesalonickym",
+        "Druha Sol",
+        "Druha Te",
+        "II. list Tesalonickym",
+        "II. list Solunskym",
+        "II. Tessalonicenskym",
+        "II. Solunskym",
+        "II. Tesalonickym",
+        "II. Sol",
+        "II. Te",
+        "II list Tesalonickym",
+        "II list Solunskym",
+        "II Tessalonicenskym",
+        "II Solunskym",
+        "II Tesalonickym",
+        "II Sol",
+        "II Te",
+        "2. list Tesalonickym",
+        "2. list Solunskym",
+        "2. Tessalonicenskym",
+        "2. Solunskym",
+        "2. Tesalonickym",
+        "2. Sol",
+        "2. Te",
+        "2 list Tesalonickym",
+        "2 list Solunskym",
+        "2 Tessalonicenskym",
+        "2 Solunskym",
+        "2 Tesalonickym",
+        "2 Sol",
+        "2 Te",
+        "2Thess"
+      ]
+    },
+    "1TI": {
+      "aliases": [
+        "Prvni. list Timotejovi",
+        "Prvni. list Timoteovi",
+        "Prvni. Timotejovi",
+        "Prvni. Timoteovi",
+        "Prvni. Timoteus",
+        "Prvni. Tm",
+        "Prvni. Tim",
+        "Prvni list Timotejovi",
+        "Prvni list Timoteovi",
+        "Prvni Timotejovi",
+        "Prvni Timoteovi",
+        "Prvni Timoteus",
+        "Prvni Tm",
+        "Prvni Tim",
+        "1. list Timotejovi",
+        "1. list Timoteovi",
+        "1. Timotejovi",
+        "1. Timoteovi",
+        "1. Timoteus",
+        "1. Tm",
+        "1. Tim",
+        "1 list Timotejovi",
+        "1 list Timoteovi",
+        "1 Timotejovi",
+        "1 Timoteovi",
+        "1 Timoteus",
+        "1 Tm",
+        "1 Tim",
+        "Prvni. list Timeteovi",
+        "Prvni list Timeteovi",
+        "1. list Timeteovi",
+        "1 list Timeteovi",
+        "1Tim"
+      ]
+    },
+    "2TI": {
+      "aliases": [
+        "Druha. list Timotejovi",
+        "Druha. list Timoteovi",
+        "Druha. Timotejovi",
+        "Druha. Timoteovi",
+        "Druha. Timoteus",
+        "Druha. Tm",
+        "Druha. Tim",
+        "Druha list Timotejovi",
+        "Druha list Timoteovi",
+        "Druha Timotejovi",
+        "Druha Timoteovi",
+        "Druha Timoteus",
+        "Druha Tm",
+        "Druha Tim",
+        "II. list Timotejovi",
+        "II. list Timoteovi",
+        "II. Timotejovi",
+        "II. Timoteovi",
+        "II. Timoteus",
+        "II. Tm",
+        "II. Tim",
+        "II list Timotejovi",
+        "II list Timoteovi",
+        "II Timotejovi",
+        "II Timoteovi",
+        "II Timoteus",
+        "II Tm",
+        "II Tim",
+        "2. list Timotejovi",
+        "2. list Timoteovi",
+        "2. Timotejovi",
+        "2. Timoteovi",
+        "2. Timoteus",
+        "2. Tm",
+        "2. Tim",
+        "2 list Timotejovi",
+        "2 list Timoteovi",
+        "2 Timotejovi",
+        "2 Timoteovi",
+        "2 Timoteus",
+        "2 Tm",
+        "2 Tim",
+        "Druha. list Timetejovi",
+        "Druha list Timetejovi",
+        "II. list Timetejovi",
+        "II list Timetejovi",
+        "2. list Timetejovi",
+        "2 list Timetejovi",
+        "2Tim"
+      ]
+    },
+    "TIT": {
+      "aliases": [
+        "List Titovi",
+        "Titovi",
+        "Titus",
+        "Tt",
+        "Tit"
+      ]
+    },
+    "PHM": {
+      "aliases": [
+        "List Filemonovi",
+        "Filemonovi",
+        "Filemon",
+        "Phlm",
+        "Flm",
+        "Fm"
+      ]
+    },
+    "HEB": {
+      "aliases": [
+        "List Hebrejum",
+        "List Zidum",
+        "Hebrejum",
+        "Zidum",
+        "Heb",
+        "Zid",
+        "Zd"
+      ]
+    },
+    "JAS": {
+      "aliases": [
+        "List Jakubuv",
+        "Jakubuv",
+        "Jak",
+        "Jakub",
+        "Jas",
+        "Jk"
+      ]
+    },
+    "1PE": {
+      "aliases": [
+        "Prvni. list Petruv",
+        "Prvni. Petrova",
+        "Prvni. Pt",
+        "Prvni. P",
+        "Prvni. Petr",
+        "Prvni. Petruv",
+        "Prvni list Petruv",
+        "Prvni Petrova",
+        "Prvni Pt",
+        "Prvni P",
+        "Prvni Petr",
+        "Prvni Petruv",
+        "1. list Petruv",
+        "1. Petrova",
+        "1. Pt",
+        "1. P",
+        "1. Petr",
+        "1. Petruv",
+        "1 list Petruv",
+        "1 Petrova",
+        "1 Pt",
+        "1 P",
+        "1 Petr",
+        "1 Petruv",
+        "1Pet"
+      ]
+    },
+    "2PE": {
+      "aliases": [
+        "Druha. list Petruv",
+        "Druha. Petrova",
+        "Druha. Pt",
+        "Druha. P",
+        "Druha. Petr",
+        "Druha. Petruv",
+        "Druha list Petruv",
+        "Druha Petrova",
+        "Druha Pt",
+        "Druha P",
+        "Druha Petr",
+        "Druha Petruv",
+        "II. list Petruv",
+        "II. Petrova",
+        "II. Pt",
+        "II. P",
+        "II. Petr",
+        "II. Petruv",
+        "II list Petruv",
+        "II Petrova",
+        "II Pt",
+        "II P",
+        "II Petr",
+        "II Petruv",
+        "2. list Petruv",
+        "2. Petrova",
+        "2. Pt",
+        "2. P",
+        "2. Petr",
+        "2. Petruv",
+        "2 list Petruv",
+        "2 Petrova",
+        "2 Pt",
+        "2 P",
+        "2 Petr",
+        "2 Petruv",
+        "2Pet"
+      ]
+    },
+    "1JN": {
+      "aliases": [
+        "Prvni. list Januv",
+        "Prvni. Janova",
+        "Prvni. Januv",
+        "Prvni list Januv",
+        "Prvni Janova",
+        "Prvni Januv",
+        "1. list Januv",
+        "1. Janova",
+        "1. Januv",
+        "1 list Januv",
+        "1 Janova",
+        "1 Januv",
+        "1 J",
+        "1 Jan",
+        "1John",
+        "Prvni. J",
+        "Prvni. Jan",
+        "Prvni J",
+        "Prvni Jan",
+        "1. J",
+        "1. Jan"
+      ]
+    },
+    "2JN": {
+      "aliases": [
+        "Druha. list Januv",
+        "Druha. Janova",
+        "Druha. Januv",
+        "Druha list Januv",
+        "Druha Janova",
+        "Druha Januv",
+        "II. list Januv",
+        "II. Janova",
+        "II. Januv",
+        "II list Januv",
+        "II Janova",
+        "II Januv",
+        "2. list Januv",
+        "2. Janova",
+        "2. Januv",
+        "2 list Januv",
+        "2 Janova",
+        "2 Januv",
+        "2 J",
+        "2 Jan",
+        "2John",
+        "Druha. J",
+        "Druha. Jan",
+        "Druha J",
+        "Druha Jan",
+        "II. J",
+        "II. Jan",
+        "II J",
+        "II Jan",
+        "2. J",
+        "2. Jan"
+      ]
+    },
+    "3JN": {
+      "aliases": [
+        "Treti. list Januv",
+        "Treti. Janova",
+        "Treti. Januv",
+        "Treti list Januv",
+        "Treti Janova",
+        "Treti Januv",
+        "III. list Januv",
+        "III. Janova",
+        "III. Januv",
+        "III list Januv",
+        "III Janova",
+        "III Januv",
+        "3. list Januv",
+        "3. Janova",
+        "3. Januv",
+        "3 list Januv",
+        "3 Janova",
+        "3 Januv",
+        "3 J",
+        "3 Jan",
+        "3John",
+        "Treti. J",
+        "Treti. Jan",
+        "Treti J",
+        "Treti Jan",
+        "III. J",
+        "III. Jan",
+        "III J",
+        "III Jan",
+        "3. J",
+        "3. Jan"
+      ]
+    },
+    "JUD": {
+      "aliases": [
+        "List Juduv",
+        "Judova",
+        "Juda",
+        "Jd",
+        "Ju",
+        "Juduv"
+      ]
+    },
+    "REV": {
+      "aliases": [
+        "Zjeveni svateho Jana",
+        "Zjeveni Janovo",
+        "Kniha Zjeveni",
+        "Apokalypsa",
+        "Zj",
+        "Zjeveni",
+        "Rev"
+      ]
+    },
+    "TOB": {
+      "aliases": [
+        "Tobijas",
+        "Tobit",
+        "Tobias",
+        "Tob"
+      ]
+    },
+    "JDT": {
+      "aliases": [
+        "Jud",
+        "Judit",
+        "Jdt"
+      ]
+    },
+    "ESG": {
+      "aliases": [
+        "Ester recke dodatky",
+        "Ester recke casti",
+        "GkEsth",
+        "Pridavky k Ester",
+        "AddEsth"
+      ]
+    },
+    "WIS": {
+      "aliases": [
+        "Moudrost Salomounova",
+        "Mdr",
+        "Kniha Moudrosti",
+        "Moudrost",
+        "Wis"
+      ]
+    },
+    "SIR": {
+      "aliases": [
+        "Kniha Sirachovcova",
+        "Ecclesiasticus",
+        "Sirachovec",
+        "Sir"
+      ]
+    },
+    "BAR": {
+      "aliases": [
+        "Kniha Baruchova",
+        "Kniha Barukova",
+        "Baruch",
+        "Baruk",
+        "Bar"
+      ]
+    },
+    "LJE": {
+      "aliases": [
+        "List Jeremjasuv",
+        "EpJer"
+      ]
+    },
+    "S3Y": {
+      "aliases": [
+        "Azarjasova modlitba",
+        "PrAzar",
+        "Pisen mladencu v horici peci",
+        "Tri muzi v rozpalene peci",
+        "SgThree"
+      ]
+    },
+    "SUS": {
+      "aliases": [
+        "Zuz",
+        "Zuzana",
+        "Sus"
+      ]
+    },
+    "BEL": {
+      "aliases": [
+        "Bel",
+        "Bel a drak"
+      ]
+    },
+    "1MA": {
+      "aliases": [
+        "Prvni. Mak",
+        "Prvni. Makabejska",
+        "Prvni Mak",
+        "Prvni Makabejska",
+        "1. Mak",
+        "1. Makabejska",
+        "1 Mak",
+        "1 Makabejska",
+        "1Macc"
+      ]
+    },
+    "2MA": {
+      "aliases": [
+        "Druha. Mak",
+        "Druha. Makabejska",
+        "Druha Mak",
+        "Druha Makabejska",
+        "II. Mak",
+        "II. Makabejska",
+        "II Mak",
+        "II Makabejska",
+        "2. Mak",
+        "2. Makabejska",
+        "2 Mak",
+        "2 Makabejska",
+        "2Macc"
+      ]
+    },
+    "3MA": {
+      "aliases": [
+        "Treti. Mak",
+        "Treti. Makabejska",
+        "Treti Mak",
+        "Treti Makabejska",
+        "III. Mak",
+        "III. Makabejska",
+        "III Mak",
+        "III Makabejska",
+        "3. Mak",
+        "3. Makabejska",
+        "3 Mak",
+        "3 Makabejska",
+        "3Macc"
+      ]
+    },
+    "4MA": {
+      "aliases": [
+        "Ctvrta. Mak",
+        "Ctvrta. Makabejska",
+        "Ctvrta Mak",
+        "Ctvrta Makabejska",
+        "IV. Mak",
+        "IV. Makabejska",
+        "IV Mak",
+        "IV Makabejska",
+        "4. Mak",
+        "4. Makabejska",
+        "4 Mak",
+        "4 Makabejska",
+        "4Macc"
+      ]
+    },
+    "1ES": {
+      "aliases": [
+        "1 Ezdras",
+        "1Esd",
+        "Prvni. Ezdras",
+        "Prvni Ezdras",
+        "1. Ezdras"
+      ]
+    },
+    "2ES": {
+      "aliases": [
+        "2 Ezdras",
+        "2Esd",
+        "Druha. Ezdras",
+        "Druha Ezdras",
+        "II. Ezdras",
+        "II Ezdras",
+        "2. Ezdras"
+      ]
+    },
+    "MAN": {
+      "aliases": [
+        "Modlitbu Manasse",
+        "PrMan"
+      ]
+    }
+  }
 }

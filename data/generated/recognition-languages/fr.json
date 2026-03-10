@@ -1,0 +1,1142 @@
+{
+  "id": "fr",
+  "displayName": "French",
+  "lang": "fr",
+  "formatVersion": 1,
+  "source": "openbibleinfo/Bible-Passage-Reference-Parser-Languages/lang/fra.js",
+  "books": {
+    "GEN": {
+      "aliases": [
+        "Genese",
+        "Gen",
+        "Ge",
+        "Gn"
+      ]
+    },
+    "EXO": {
+      "aliases": [
+        "Ex",
+        "Exo",
+        "Exode",
+        "Exod"
+      ]
+    },
+    "LEV": {
+      "aliases": [
+        "Le",
+        "Lev",
+        "Levitique",
+        "Lv"
+      ]
+    },
+    "NUM": {
+      "aliases": [
+        "Nombres",
+        "No",
+        "Nomb",
+        "Nom",
+        "Num",
+        "Nb"
+      ]
+    },
+    "DEU": {
+      "aliases": [
+        "Deu",
+        "Deut",
+        "Deuteronome",
+        "Dt"
+      ]
+    },
+    "JOS": {
+      "aliases": [
+        "Jos",
+        "Josue",
+        "Josh",
+        "Jo"
+      ]
+    },
+    "JDG": {
+      "aliases": [
+        "Jug",
+        "Juges",
+        "Judg",
+        "Jg",
+        "Ju"
+      ]
+    },
+    "RUT": {
+      "aliases": [
+        "Ru",
+        "Ruth",
+        "Rut",
+        "Rt"
+      ]
+    },
+    "1SA": {
+      "aliases": [
+        "Premieres. Samuel",
+        "Premieres Samuel",
+        "Premiere. Samuel",
+        "Premiere Samuel",
+        "Premiers. Samuel",
+        "Premiers Samuel",
+        "Premier. Samuel",
+        "Premier Samuel",
+        "1ere. Samuel",
+        "1ere Samuel",
+        "1re. Samuel",
+        "1re Samuel",
+        "I. Samuel",
+        "I Samuel",
+        "1. Samuel",
+        "1er. Samuel",
+        "1 Samuel",
+        "1er Samuel",
+        "1 S",
+        "1 Sam",
+        "1 Sa",
+        "1Sam"
+      ]
+    },
+    "2SA": {
+      "aliases": [
+        "Deuxiemes. Samuel",
+        "Deuxiemes Samuel",
+        "Deuxieme. Samuel",
+        "Deuxieme Samuel",
+        "2eme. Samuel",
+        "2eme Samuel",
+        "2de. Samuel",
+        "2de Samuel",
+        "II. Samuel",
+        "II Samuel",
+        "2d. Samuel",
+        "2. Samuel",
+        "2e. Samuel",
+        "2d Samuel",
+        "2 Samuel",
+        "2e Samuel",
+        "2 S",
+        "2 Sam",
+        "2 Sa",
+        "2Sam"
+      ]
+    },
+    "1KI": {
+      "aliases": [
+        "Premieres. Rois",
+        "Premieres Rois",
+        "Premiere. Rois",
+        "Premiere Rois",
+        "Premiers. Rois",
+        "Premiers Rois",
+        "Premier. Rois",
+        "Premier Rois",
+        "1ere. Rois",
+        "1ere Rois",
+        "1re. Rois",
+        "1re Rois",
+        "I. Rois",
+        "I Rois",
+        "1. Rois",
+        "1er. Rois",
+        "1 Rois",
+        "1er Rois",
+        "1 R",
+        "1Kgs"
+      ]
+    },
+    "2KI": {
+      "aliases": [
+        "Deuxiemes. Rois",
+        "Deuxiemes Rois",
+        "Deuxieme. Rois",
+        "Deuxieme Rois",
+        "2eme. Rois",
+        "2eme Rois",
+        "2de. Rois",
+        "2de Rois",
+        "II. Rois",
+        "II Rois",
+        "2d. Rois",
+        "2. Rois",
+        "2e. Rois",
+        "2d Rois",
+        "2 Rois",
+        "2e Rois",
+        "2 R",
+        "2Kgs"
+      ]
+    },
+    "1CH": {
+      "aliases": [
+        "Premieres. Chroniques",
+        "Premieres Chroniques",
+        "Premiere. Chroniques",
+        "Premiere Chroniques",
+        "Premiers. Chroniques",
+        "Premiers Chroniques",
+        "Premier. Chroniques",
+        "Premier Chroniques",
+        "1ere. Chroniques",
+        "1ere Chroniques",
+        "1re. Chroniques",
+        "1re Chroniques",
+        "I. Chroniques",
+        "I Chroniques",
+        "1. Chroniques",
+        "1er. Chroniques",
+        "1 Chroniques",
+        "1er Chroniques",
+        "1 Ch",
+        "1 Chr",
+        "1 Chron",
+        "1 Chro",
+        "1Chr"
+      ]
+    },
+    "2CH": {
+      "aliases": [
+        "Deuxiemes. Chroniques",
+        "Deuxiemes Chroniques",
+        "Deuxieme. Chroniques",
+        "Deuxieme Chroniques",
+        "2eme. Chroniques",
+        "2eme Chroniques",
+        "2de. Chroniques",
+        "2de Chroniques",
+        "II. Chroniques",
+        "II Chroniques",
+        "2d. Chroniques",
+        "2. Chroniques",
+        "2e. Chroniques",
+        "2d Chroniques",
+        "2 Chroniques",
+        "2e Chroniques",
+        "2 Ch",
+        "2 Chr",
+        "2 Chron",
+        "2 Chro",
+        "2Chr"
+      ]
+    },
+    "EZR": {
+      "aliases": [
+        "Esdras",
+        "Esdr",
+        "Esd",
+        "Ezra"
+      ]
+    },
+    "NEH": {
+      "aliases": [
+        "Ne",
+        "Neh",
+        "Nehemie"
+      ]
+    },
+    "EST": {
+      "aliases": [
+        "Est",
+        "Esth",
+        "Esther"
+      ]
+    },
+    "JOB": {
+      "aliases": [
+        "Job",
+        "Jb",
+        "Jo"
+      ]
+    },
+    "PSA": {
+      "aliases": [
+        "Ps151",
+        "1 eres Psaume",
+        "1 ere Psaume",
+        "101 eres Psaume",
+        "101 ere Psaume",
+        "151 eres Psaume",
+        "151 ere Psaume",
+        "110 e Psaume",
+        "110 emes Psaume",
+        "110 eme Psaume",
+        "100 e Psaume",
+        "100 emes Psaume",
+        "100 eme Psaume",
+        "150 e Psaume",
+        "150 emes Psaume",
+        "150 eme Psaume",
+        "16 e Psaume",
+        "16 emes Psaume",
+        "16 eme Psaume",
+        "1 ers Psaume",
+        "101 ers Psaume",
+        "151 ers Psaume",
+        "11 e Psaume",
+        "11 emes Psaume",
+        "11 eme Psaume",
+        "10 e Psaume",
+        "10 emes Psaume",
+        "10 eme Psaume",
+        "15 e Psaume",
+        "15 emes Psaume",
+        "15 eme Psaume",
+        "1 er Psaume",
+        "101 er Psaume",
+        "151 er Psaume",
+        "21 eres Psaume",
+        "21 ere Psaume",
+        "20 e Psaume",
+        "20 emes Psaume",
+        "20 eme Psaume",
+        "21 ers Psaume",
+        "2 e Psaume",
+        "2 emes Psaume",
+        "2 eme Psaume",
+        "21 er Psaume",
+        "Ps",
+        "Psa",
+        "Psau",
+        "Psaumes",
+        "Psaume"
+      ]
+    },
+    "PRO": {
+      "aliases": [
+        "Pr",
+        "Proverbes",
+        "Prov",
+        "Pro",
+        "Prv"
+      ]
+    },
+    "ECC": {
+      "aliases": [
+        "Ecclesiaste",
+        "Ec",
+        "Eccl",
+        "Eccles",
+        "Qoheleth",
+        "Qohelet"
+      ]
+    },
+    "SNG": {
+      "aliases": [
+        "Cantique des Cantiques",
+        "Cantiques",
+        "Cnt",
+        "Ct",
+        "Ca",
+        "Cantique",
+        "Song"
+      ]
+    },
+    "ISA": {
+      "aliases": [
+        "Es",
+        "Esa",
+        "Esaie"
+      ]
+    },
+    "JER": {
+      "aliases": [
+        "Je",
+        "Jer",
+        "Jerem",
+        "Jeremie",
+        "Jr"
+      ]
+    },
+    "LAM": {
+      "aliases": [
+        "Lamentations de Jeremie",
+        "La",
+        "Lam",
+        "Lamentations",
+        "Lm"
+      ]
+    },
+    "EZK": {
+      "aliases": [
+        "Ezech",
+        "Ezechiel",
+        "Ezek",
+        "Ez",
+        "Eze"
+      ]
+    },
+    "DAN": {
+      "aliases": [
+        "Daniel",
+        "Dan",
+        "Da",
+        "Dn"
+      ]
+    },
+    "HOS": {
+      "aliases": [
+        "Os",
+        "Osee",
+        "Hos"
+      ]
+    },
+    "JOL": {
+      "aliases": [
+        "Joel",
+        "Joe",
+        "Jl",
+        "Jo"
+      ]
+    },
+    "AMO": {
+      "aliases": [
+        "Am",
+        "Amos",
+        "Amo"
+      ]
+    },
+    "OBA": {
+      "aliases": [
+        "Abdias",
+        "Abd",
+        "Ab",
+        "Obad"
+      ]
+    },
+    "JON": {
+      "aliases": [
+        "Jon",
+        "Jonah",
+        "Jo"
+      ]
+    },
+    "MIC": {
+      "aliases": [
+        "Mi",
+        "Mic",
+        "Mich",
+        "Michee"
+      ]
+    },
+    "NAM": {
+      "aliases": [
+        "Na",
+        "Nah",
+        "Nahoum",
+        "Nahum"
+      ]
+    },
+    "HAB": {
+      "aliases": [
+        "Ha",
+        "Hab",
+        "Habacuc",
+        "Habakuk",
+        "Habaquq",
+        "Habac"
+      ]
+    },
+    "ZEP": {
+      "aliases": [
+        "Sophonie",
+        "So",
+        "Soph",
+        "Zeph"
+      ]
+    },
+    "HAG": {
+      "aliases": [
+        "Aggee",
+        "Agg",
+        "Ag",
+        "Hag"
+      ]
+    },
+    "ZEC": {
+      "aliases": [
+        "Zaccharie",
+        "Zacharie",
+        "Zah",
+        "Za",
+        "Zac",
+        "Zacch",
+        "Zach",
+        "Zacc",
+        "Zech",
+        "Zc"
+      ]
+    },
+    "MAL": {
+      "aliases": [
+        "Mal",
+        "Malac",
+        "Malach",
+        "Malachie",
+        "Malch",
+        "Malc",
+        "Ml"
+      ]
+    },
+    "MAT": {
+      "aliases": [
+        "Mat",
+        "Matt",
+        "Matth",
+        "Matthieu",
+        "Mt"
+      ]
+    },
+    "MRK": {
+      "aliases": [
+        "Marc",
+        "Mar",
+        "Mc"
+      ]
+    },
+    "LUK": {
+      "aliases": [
+        "Lu",
+        "Luke",
+        "Luc",
+        "Lc"
+      ]
+    },
+    "JHN": {
+      "aliases": [
+        "Jean",
+        "Jn",
+        "John"
+      ]
+    },
+    "ACT": {
+      "aliases": [
+        "Ac",
+        "Act",
+        "Actes",
+        "Actes des Apotres",
+        "Acts"
+      ]
+    },
+    "ROM": {
+      "aliases": [
+        "Ro",
+        "Rom",
+        "Romains",
+        "Rm"
+      ]
+    },
+    "1CO": {
+      "aliases": [
+        "Premieres. Corinthiens",
+        "Premieres Corinthiens",
+        "Premiere. Corinthiens",
+        "Premiere Corinthiens",
+        "Premiers. Corinthiens",
+        "Premiers Corinthiens",
+        "Premier. Corinthiens",
+        "Premier Corinthiens",
+        "1ere. Corinthiens",
+        "1ere Corinthiens",
+        "1re. Corinthiens",
+        "1re Corinthiens",
+        "I. Corinthiens",
+        "I Corinthiens",
+        "1. Corinthiens",
+        "1er. Corinthiens",
+        "1 Corinthiens",
+        "1er Corinthiens",
+        "1 Cor",
+        "1 Co",
+        "1Cor"
+      ]
+    },
+    "2CO": {
+      "aliases": [
+        "Deuxiemes. Corinthiens",
+        "Deuxiemes Corinthiens",
+        "Deuxieme. Corinthiens",
+        "Deuxieme Corinthiens",
+        "2eme. Corinthiens",
+        "2eme Corinthiens",
+        "2de. Corinthiens",
+        "2de Corinthiens",
+        "II. Corinthiens",
+        "II Corinthiens",
+        "2d. Corinthiens",
+        "2. Corinthiens",
+        "2e. Corinthiens",
+        "2d Corinthiens",
+        "2 Corinthiens",
+        "2e Corinthiens",
+        "2 Cor",
+        "2 Co",
+        "2Cor"
+      ]
+    },
+    "GAL": {
+      "aliases": [
+        "Galates",
+        "Gal",
+        "Ga",
+        "Gl"
+      ]
+    },
+    "EPH": {
+      "aliases": [
+        "Ep",
+        "Eph",
+        "Ephe",
+        "Ephes",
+        "Ephesiens"
+      ]
+    },
+    "PHP": {
+      "aliases": [
+        "Ph",
+        "Phil",
+        "Philippiens",
+        "Phl"
+      ]
+    },
+    "COL": {
+      "aliases": [
+        "Col",
+        "Colossiens"
+      ]
+    },
+    "1TH": {
+      "aliases": [
+        "Premieres. Thessaloniciens",
+        "Premieres. Thesaloniciens",
+        "Premieres Thessaloniciens",
+        "Premieres Thesaloniciens",
+        "Premiere. Thessaloniciens",
+        "Premiere. Thesaloniciens",
+        "Premiere Thessaloniciens",
+        "Premiere Thesaloniciens",
+        "Premiers. Thessaloniciens",
+        "Premiers. Thesaloniciens",
+        "Premiers Thessaloniciens",
+        "Premiers Thesaloniciens",
+        "Premier. Thessaloniciens",
+        "Premier. Thesaloniciens",
+        "Premier Thessaloniciens",
+        "Premier Thesaloniciens",
+        "1ere. Thessaloniciens",
+        "1ere. Thesaloniciens",
+        "1re. Thessaloniciens",
+        "1re. Thesaloniciens",
+        "1ere Thessaloniciens",
+        "1ere Thesaloniciens",
+        "1re Thessaloniciens",
+        "1re Thesaloniciens",
+        "I. Thessaloniciens",
+        "I. Thesaloniciens",
+        "I Thessaloniciens",
+        "I Thesaloniciens",
+        "1. Thessaloniciens",
+        "1. Thesaloniciens",
+        "1er. Thessaloniciens",
+        "1er. Thesaloniciens",
+        "1 Thessaloniciens",
+        "1 Thesaloniciens",
+        "1er Thessaloniciens",
+        "1er Thesaloniciens",
+        "1 Th",
+        "1 Thess",
+        "1 Thes",
+        "1Thess"
+      ]
+    },
+    "2TH": {
+      "aliases": [
+        "Deuxiemes. Thessaloniciens",
+        "Deuxiemes. Thesaloniciens",
+        "Deuxiemes Thessaloniciens",
+        "Deuxiemes Thesaloniciens",
+        "Deuxieme. Thessaloniciens",
+        "Deuxieme. Thesaloniciens",
+        "Deuxieme Thessaloniciens",
+        "Deuxieme Thesaloniciens",
+        "2eme. Thessaloniciens",
+        "2eme. Thesaloniciens",
+        "2eme Thessaloniciens",
+        "2eme Thesaloniciens",
+        "2de. Thessaloniciens",
+        "2de. Thesaloniciens",
+        "2de Thessaloniciens",
+        "2de Thesaloniciens",
+        "II. Thessaloniciens",
+        "II. Thesaloniciens",
+        "II Thessaloniciens",
+        "II Thesaloniciens",
+        "2d. Thessaloniciens",
+        "2d. Thesaloniciens",
+        "2. Thessaloniciens",
+        "2. Thesaloniciens",
+        "2e. Thessaloniciens",
+        "2e. Thesaloniciens",
+        "2d Thessaloniciens",
+        "2d Thesaloniciens",
+        "2 Thessaloniciens",
+        "2 Thesaloniciens",
+        "2e Thessaloniciens",
+        "2e Thesaloniciens",
+        "2 Th",
+        "2 Thess",
+        "2 Thes",
+        "2Thess"
+      ]
+    },
+    "1TI": {
+      "aliases": [
+        "Premieres. Timothee",
+        "Premieres Timothee",
+        "Premiere. Timothee",
+        "Premiere Timothee",
+        "Premiers. Timothee",
+        "Premiers Timothee",
+        "Premier. Timothee",
+        "Premier Timothee",
+        "1ere. Timothee",
+        "1re. Timothee",
+        "1ere Timothee",
+        "1re Timothee",
+        "I. Timothee",
+        "I Timothee",
+        "1. Timothee",
+        "1er. Timothee",
+        "1 Timothee",
+        "1er Timothee",
+        "1 Tm",
+        "1 Tim",
+        "1 Ti",
+        "1Tim"
+      ]
+    },
+    "2TI": {
+      "aliases": [
+        "Deuxiemes. Timothee",
+        "Deuxiemes Timothee",
+        "Deuxieme. Timothee",
+        "Deuxieme Timothee",
+        "2eme. Timothee",
+        "2eme Timothee",
+        "2de. Timothee",
+        "2de Timothee",
+        "II. Timothee",
+        "II Timothee",
+        "2d. Timothee",
+        "2. Timothee",
+        "2e. Timothee",
+        "2d Timothee",
+        "2 Timothee",
+        "2e Timothee",
+        "2 Tm",
+        "2 Tim",
+        "2 Ti",
+        "2Tim"
+      ]
+    },
+    "TIT": {
+      "aliases": [
+        "Tit",
+        "Titus",
+        "Tite",
+        "Tt"
+      ]
+    },
+    "PHM": {
+      "aliases": [
+        "Philemon",
+        "Phlm",
+        "Phm",
+        "Phl",
+        "Ph"
+      ]
+    },
+    "HEB": {
+      "aliases": [
+        "He",
+        "Heb",
+        "Hebr",
+        "Hebreux"
+      ]
+    },
+    "JAS": {
+      "aliases": [
+        "Jas",
+        "Jacques",
+        "Jaques",
+        "Ja",
+        "Jacq",
+        "Jac",
+        "Jc"
+      ]
+    },
+    "1PE": {
+      "aliases": [
+        "Premieres. Pierre",
+        "Premieres Pierre",
+        "Premiere. Pierre",
+        "Premiere Pierre",
+        "Premiers. Pierre",
+        "Premiers Pierre",
+        "Premier. Pierre",
+        "Premier Pierre",
+        "1ere. Pierre",
+        "1ere Pierre",
+        "1re. Pierre",
+        "1re Pierre",
+        "I. Pierre",
+        "I Pierre",
+        "1. Pierre",
+        "1er. Pierre",
+        "1 Pierre",
+        "1er Pierre",
+        "1 Pi",
+        "1 P",
+        "1Pet"
+      ]
+    },
+    "2PE": {
+      "aliases": [
+        "Deuxiemes. Pierre",
+        "Deuxiemes Pierre",
+        "Deuxieme. Pierre",
+        "Deuxieme Pierre",
+        "2eme. Pierre",
+        "2eme Pierre",
+        "2de. Pierre",
+        "2de Pierre",
+        "II. Pierre",
+        "II Pierre",
+        "2d. Pierre",
+        "2. Pierre",
+        "2e. Pierre",
+        "2d Pierre",
+        "2 Pierre",
+        "2e Pierre",
+        "2 Pi",
+        "2 P",
+        "2Pet"
+      ]
+    },
+    "1JN": {
+      "aliases": [
+        "1 Jn",
+        "1 Jean",
+        "1John",
+        "Premieres. Jean",
+        "Premieres Jean",
+        "Premiere. Jean",
+        "Premiere Jean",
+        "Premiers. Jean",
+        "Premiers Jean",
+        "Premier. Jean",
+        "Premier Jean",
+        "1ere. Jean",
+        "1ere Jean",
+        "1re. Jean",
+        "1re Jean",
+        "I. Jean",
+        "I Jean",
+        "1. Jean",
+        "1er. Jean",
+        "1er Jean"
+      ]
+    },
+    "2JN": {
+      "aliases": [
+        "2 Jn",
+        "2 Jean",
+        "2John",
+        "Deuxiemes. Jean",
+        "Deuxiemes Jean",
+        "Deuxieme. Jean",
+        "Deuxieme Jean",
+        "2eme. Jean",
+        "2eme Jean",
+        "2de. Jean",
+        "2de Jean",
+        "II. Jean",
+        "II Jean",
+        "2d. Jean",
+        "2. Jean",
+        "2e. Jean",
+        "2d Jean",
+        "2e Jean"
+      ]
+    },
+    "3JN": {
+      "aliases": [
+        "3 Jn",
+        "3 Jean",
+        "3John",
+        "Troisiemes. Jean",
+        "Troisiemes Jean",
+        "Troisieme. Jean",
+        "Troisieme Jean",
+        "3eme. Jean",
+        "3eme Jean",
+        "III. Jean",
+        "III Jean",
+        "3e. Jean",
+        "3. Jean",
+        "3e Jean"
+      ]
+    },
+    "JUD": {
+      "aliases": [
+        "Jude",
+        "Jud",
+        "Jd",
+        "Ju"
+      ]
+    },
+    "REV": {
+      "aliases": [
+        "Apocalypse de Jean",
+        "Apc",
+        "Ap",
+        "Apo",
+        "Apoc",
+        "Apocalypse",
+        "Rev"
+      ]
+    },
+    "TOB": {
+      "aliases": [
+        "Tob",
+        "Tobie",
+        "Tb"
+      ]
+    },
+    "JDT": {
+      "aliases": [
+        "Judith",
+        "Jdt"
+      ]
+    },
+    "ESG": {
+      "aliases": [
+        "Esther Grec",
+        "Esther Gr",
+        "Esth Gr",
+        "GkEsth"
+      ]
+    },
+    "WIS": {
+      "aliases": [
+        "Sagesse de Salomon",
+        "Sg",
+        "Sagesse",
+        "Wis"
+      ]
+    },
+    "SIR": {
+      "aliases": [
+        "La Sagesse de Ben Sira",
+        "Sagesse de Ben Sira",
+        "Ecclesiastique",
+        "Siracide",
+        "Sir",
+        "Si"
+      ]
+    },
+    "BAR": {
+      "aliases": [
+        "Ba",
+        "Bar",
+        "Baruch"
+      ]
+    },
+    "LJE": {
+      "aliases": [
+        "Epitre de Jeremie",
+        "Ep. Jeremie",
+        "Ep Jeremie",
+        "Ep. Jer",
+        "Ep Jer",
+        "EpJer"
+      ]
+    },
+    "S3Y": {
+      "aliases": [
+        "La Priere d'Azariah",
+        "Priere d'Azariah",
+        "Pr. Azar",
+        "Pr Azar",
+        "PrAzar",
+        "Cantique des Trois Enfants",
+        "Cantique des 3 Enfants",
+        "Ct 3 E",
+        "SgThree"
+      ]
+    },
+    "SUS": {
+      "aliases": [
+        "Sus",
+        "Susanne",
+        "Susanne et les vieillards",
+        "Susanne et les deux vieillards",
+        "Susanne au bain"
+      ]
+    },
+    "BEL": {
+      "aliases": [
+        "Bel",
+        "Bel et le Serpent",
+        "Bel et le Dragon"
+      ]
+    },
+    "1MA": {
+      "aliases": [
+        "Premieres. Maccabees",
+        "Premieres Maccabees",
+        "Premiere. Maccabees",
+        "Premiere Maccabees",
+        "Premiers. Maccabees",
+        "Premiers Maccabees",
+        "Premier. Maccabees",
+        "Premier Maccabees",
+        "1ere. Maccabees",
+        "1re. Maccabees",
+        "1ere Maccabees",
+        "1re Maccabees",
+        "I. Maccabees",
+        "I Maccabees",
+        "1. Maccabees",
+        "1er. Maccabees",
+        "1 Maccabees",
+        "1er Maccabees",
+        "1 M",
+        "1 Macc",
+        "1Macc"
+      ]
+    },
+    "2MA": {
+      "aliases": [
+        "Deuxiemes. Maccabees",
+        "Deuxiemes Maccabees",
+        "Deuxieme. Maccabees",
+        "Deuxieme Maccabees",
+        "2eme. Maccabees",
+        "2eme Maccabees",
+        "2de. Maccabees",
+        "2de Maccabees",
+        "II. Maccabees",
+        "II Maccabees",
+        "2d. Maccabees",
+        "2. Maccabees",
+        "2e. Maccabees",
+        "2d Maccabees",
+        "2 Maccabees",
+        "2e Maccabees",
+        "2 M",
+        "2 Macc",
+        "2Macc"
+      ]
+    },
+    "3MA": {
+      "aliases": [
+        "Troisiemes. Maccabees",
+        "Troisiemes Maccabees",
+        "Troisieme. Maccabees",
+        "Troisieme Maccabees",
+        "3eme. Maccabees",
+        "3eme Maccabees",
+        "III. Maccabees",
+        "III Maccabees",
+        "3e. Maccabees",
+        "3. Maccabees",
+        "3e Maccabees",
+        "3 Maccabees",
+        "3 M",
+        "3 Macc",
+        "3Macc"
+      ]
+    },
+    "4MA": {
+      "aliases": [
+        "Quatriemes. Maccabees",
+        "Quatriemes Maccabees",
+        "Quatrieme. Maccabees",
+        "Quatrieme Maccabees",
+        "4eme. Maccabees",
+        "4eme Maccabees",
+        "IV. Maccabees",
+        "IV Maccabees",
+        "4e. Maccabees",
+        "4. Maccabees",
+        "4e Maccabees",
+        "4 Maccabees",
+        "4 M",
+        "4 Macc",
+        "4Macc"
+      ]
+    },
+    "1ES": {
+      "aliases": [
+        "1 Esdras",
+        "1 Es",
+        "1 Esdr",
+        "1 Esd",
+        "1Esd",
+        "Premieres. Esdras",
+        "Premieres Esdras",
+        "Premiere. Esdras",
+        "Premiere Esdras",
+        "Premiers. Esdras",
+        "Premiers Esdras",
+        "Premier. Esdras",
+        "Premier Esdras",
+        "1ere. Esdras",
+        "1ere Esdras",
+        "1re. Esdras",
+        "1re Esdras",
+        "I. Esdras",
+        "I Esdras",
+        "1. Esdras",
+        "1er. Esdras",
+        "1er Esdras"
+      ]
+    },
+    "2ES": {
+      "aliases": [
+        "2 Esdras",
+        "2 Es",
+        "2 Esdr",
+        "2 Esd",
+        "2Esd",
+        "Deuxiemes. Esdras",
+        "Deuxiemes Esdras",
+        "Deuxieme. Esdras",
+        "Deuxieme Esdras",
+        "2eme. Esdras",
+        "2eme Esdras",
+        "2de. Esdras",
+        "2de Esdras",
+        "II. Esdras",
+        "II Esdras",
+        "2d. Esdras",
+        "2. Esdras",
+        "2e. Esdras",
+        "2d Esdras",
+        "2e Esdras"
+      ]
+    },
+    "MAN": {
+      "aliases": [
+        "La Priere de Manasse",
+        "Priere de Manasse",
+        "Pr. Manasse",
+        "Pr Manasse",
+        "Pr. Man",
+        "Pr Man",
+        "PrMan"
+      ]
+    }
+  }
+}

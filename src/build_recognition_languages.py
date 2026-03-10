@@ -1,5 +1,6 @@
 import json
 import re
+import unicodedata
 from pathlib import Path
 
 from osis_to_usfm import OSIS_TO_USFM
@@ -35,7 +36,7 @@ BOOK_ORDER = [
 
 # None = build all downloaded languages
 # Example: ONLY_LANGS = {"ces"}
-ONLY_LANGS ={"ces"}
+ONLY_LANGS ={"deu"}
 
 LANG_ID_MAP = {
     "ces": "cs",
@@ -137,6 +138,16 @@ def expand_simple_pattern(text: str) -> list[str]:
     text = text.replace(r"\-", "-")
     text = text.replace(r"\(", "(")
     text = text.replace(r"\)", ")")
+
+    # Split top-level alternatives first, before expanding any group.
+    # Without this, the suffix of a (?:...) expansion can contain a raw "|",
+    # which ends up literally embedded in the produced alias strings.
+    top_alts = split_top_level_alternatives(text)
+    if len(top_alts) > 1:
+        variants = []
+        for alt in top_alts:
+            variants.extend(expand_simple_pattern(alt))
+        return variants
 
     # Expand first non-capturing group
     start = text.find("(?:")
@@ -266,16 +277,16 @@ def split_top_level_alternatives(text: str) -> list[str]:
             continue
 
         if ch == "|" and depth_paren == 0 and depth_bracket == 0:
-            part = "".join(current).strip()
-            if part:
+            part = "".join(current)
+            if part.strip():
                 parts.append(part)
             current = []
             continue
 
         current.append(ch)
 
-    tail = "".join(current).strip()
-    if tail:
+    tail = "".join(current)
+    if tail.strip():
         parts.append(tail)
 
     return parts
@@ -354,12 +365,13 @@ def clean_alias(part: str) -> str | None:
     # Skip obvious regex leftovers.
     if not s:
         return None
-    if not s:
-        return None
     if any(token in s for token in ["{", "}", "*", "+"]):
         return None
 
-        return s
+    s = unicodedata.normalize("NFD", s)
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+
+    return s
 
 
 def parse_osis_list(raw_osis: str) -> list[str]:
